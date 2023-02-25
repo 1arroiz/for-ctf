@@ -1,1 +1,1 @@
-<?php echo exe('cd /; ls');?>
+<?php echo exec('cd /; ls');?>
