@@ -1,1 +1,1 @@
-<?php echo "HUI SOSSAT"; ?>
+<?php echo getenv('FLAG'); ?>
