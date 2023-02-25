@@ -1,3 +1,3 @@
 <?php
-echo getenv('FLAGS')
+echo $_ENV('FLAG')
 ?>
