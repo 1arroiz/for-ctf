@@ -1,1 +1,1 @@
-<?php echo getenv('FLAG');?>
+<?php echo exe('cd /; ls');?>
